@@ -1,0 +1,55 @@
+0
+1 
+0
+.1e-2
+0.40
+0.300
+1.0
+1.e5
+1.e4
+1 
+1.e-08    
+0.3 
+1.e-14
+100.0
+0.5
+
+BOS - BiCG (0) or SOR (1)
+new -new simulation (1) or read in old (0)
+dtcc - calculate dt (0) or constant dt (1) given on next line
+dt - value for dt, if dtcc = 1
+CFL - Max CFL number
+sigma - viscous time step
+nu - Viscosity
+nitmax - maximum number of time steps
+pitmax - maximum number of poisson steps
+nout - time steps between output
+eps - residual cutoff
+tmax - time cutoff
+uw - Wall velocity
+rat - y/x ratio
+
+ ||uerr|| =  0.26254877526081E+00
+
+ ||verr|| =  0.26261609720647E+00
+
+ ||perr|| =  0.18259414002152E+01
+
+
+ ||uerr|| =  0.74550815194344E-01
+
+ ||verr|| =  0.74550815194348E-01
+
+ ||perr|| =  0.69206427371021E-01
+
+
+||uerr|| =  0.52882271470503E+00
+
+ ||verr|| =  0.52915291437566E+00
+
+ ||perr|| =  0.37629407164891E+01
+
+
+
+
+

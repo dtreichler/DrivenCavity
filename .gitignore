@@ -1,3 +1,6 @@
+# Compiled solver
+stdsolver
+
 # Compiled Object files
 *.slo
 *.lo
